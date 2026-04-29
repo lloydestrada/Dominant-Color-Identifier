@@ -46,6 +46,6 @@ python main.py
 * NumPy
 
 
-#Example Output
+# Example Output
 <img width="599" height="628" alt="image" src="https://github.com/user-attachments/assets/0dcd67ac-97bd-479a-b7f6-dd07fb6a0696" />
 
