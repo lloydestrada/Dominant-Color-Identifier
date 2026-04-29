@@ -50,6 +50,10 @@ python main.py
 
 Download the executable from the Releases section of this repository.
 
+# Flowchar
+<img width="451" height="941" alt="task drawio" src="https://github.com/user-attachments/assets/b449be99-deb2-4bcc-8745-44196a53addd" />
+
+
 # Example Output
 <img width="599" height="628" alt="image" src="https://github.com/user-attachments/assets/0dcd67ac-97bd-479a-b7f6-dd07fb6a0696" />
 
