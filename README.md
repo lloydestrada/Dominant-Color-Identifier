@@ -25,6 +25,7 @@ To ensure reliability:
 
 * API Ninjas `/quotes` endpoint is used for API connectivity
 * A public image service is used to retrieve random images
+* 
 
 ## How to Run
 
@@ -45,6 +46,9 @@ python main.py
 * Pillow
 * NumPy
 
+## Download
+
+Download the executable from the Releases section of this repository.
 
 # Example Output
 <img width="599" height="628" alt="image" src="https://github.com/user-attachments/assets/0dcd67ac-97bd-479a-b7f6-dd07fb6a0696" />
